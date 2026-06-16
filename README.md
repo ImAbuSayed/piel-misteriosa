@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-misteriosa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel misteriosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-misteriosa/) |
+| **Get License** | [Official Music Licensing for Piel misteriosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-misteriosa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `81d7d7806d8b5618416b10345e8e044eda76dcf44530275c2d465e551a0c6071` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

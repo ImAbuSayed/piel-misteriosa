@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel misteriosa
+
+This log tracks the cryptographic history and versioning for the song **Piel misteriosa** (piel-misteriosa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:05:06.803783 | `v1` | `81d7d7806d8b5618416b10345e8e044eda76dcf44530275c2d465e551a0c6071` | `a6ae530879ff881e76c7337854f5533e91cf278ad4ed08cfa8cbf7b8e5c981d3` | `2026-06-17_piel-misteriosa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
