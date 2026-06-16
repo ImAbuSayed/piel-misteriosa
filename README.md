@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-misteriosa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel misteriosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-misteriosa/) |
+| **Get License** | [License this song: Piel misteriosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-misteriosa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya me llama en la oscuridad,
+> Tienes el veneno dulce que me quita la paz,
+> Baby, tu piel misteriosa me tiene volando de más,
+> Un laberinto de seda del que no quiero escapar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
